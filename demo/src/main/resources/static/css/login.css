@@ -1,0 +1,17 @@
+h1{
+    color: green;
+    font-family: Sans-Serif;
+}
+label{
+    font-family: Sans-Serif;
+}
+p{
+    font-family: Sans-Serif
+}
+input{
+    margin: 5px;
+}
+html, body {height:100%;}
+html {display:table; width:100%;}
+body {display:table-cell; text-align:center; horiz-align: center;}
+
